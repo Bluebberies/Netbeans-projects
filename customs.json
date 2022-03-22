@@ -1,0 +1,17 @@
+{
+    "elements": {
+        "a": {
+            "attributes": {
+                "href": {}
+            }
+        }
+    },
+    "attributes": {
+        "th:fragment": {
+            "context": "div"
+        },
+        "th:href": {
+            "context": "link"
+        }
+    }
+}
