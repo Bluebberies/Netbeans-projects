@@ -33,5 +33,4 @@ build/
 .vscode/
 
 
-# Any other thing can be excluded.
-system.properties
+# Any other thing can be excluded
